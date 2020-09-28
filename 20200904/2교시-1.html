@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // var today=new Date();
+        // var month=today.getMonth()+1;
+
+        // document.write(month);
+
+        document.write("<h1>현재날짜/시간 정보</h1>")
+        var today=new Date();
+        var nowMonth=today.getMonth()+1;
+        var nowDate=today.getDate();
+        var nowDay=today.getDay();
+        var nowHours=today.getHours();
+        var nowMinutes=today.getMinutes();
+        var nowSeconds=today.getSeconds();
+        var nowTime=today.getTime();
+
+        document.write("월: "+nowMonth+"<br>");
+        document.write("일: "+nowDate+"<br>");
+        document.write("요일: "+nowDay+"<br>");
+        document.write("사: "+nowHours+"<br>");
+        document.write("분: "+nowMinutes+"<br>");
+        document.write("초: "+nowSeconds+"<br>");
+        document.write("경과시간: "+nowTime+"<br>");
+        
+        document.write("<h1>날짜바꾸기</h1>")
+        today.setMonth(11);
+        today.setDate(25);
+
+        document.write("월: "+nowMonth+"<br>");
+        document.write("일: "+nowDate+"<br>");
+        
+    </script>
+</body>
+</html>

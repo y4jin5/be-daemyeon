@@ -1,0 +1,66 @@
+p{
+    font-size: 16px;
+}
+.margin{
+    margin-bottom: 45px;
+}
+.bg-1{
+    background: #1abc9c;
+    color: #fff;
+}
+.navbar{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav li a:hover{
+    color: #1abc9c !important;
+}
+.bg-2{
+    background: #474e5d;
+    color: #fff;
+}
+.bg-3{
+    background: #fff;
+    color: #555;
+}
+.bg-4{
+    background: #2f2f2f;
+    color: #fff;
+}
+/*
+.bg-2{
+    background: salmon;
+    height: 500px;
+}
+footer{
+    width: 100%;
+    background: gray;
+    height: 150px;
+}
+.navbar{
+    background: burlywood;
+    height: 100px;
+} */
+
+/*
+.bg-6{
+    background: darkcyan;
+    height: 100px;
+}
+.bg-7{
+    background: violet;
+    height: 100px;
+}
+.bg-8{
+    background: hotpink;
+    height: 100px;
+}
+.bg-9{
+    background: teal;
+    height: 100px;
+} */

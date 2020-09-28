@@ -1,0 +1,35 @@
+.bg-1{
+    background: saddlebrown;
+    height: 500px;
+}
+.bg-2{
+    background: salmon;
+    height: 500px;
+}
+footer{
+    width: 100%;
+    background: gray;
+    height: 150px;
+}
+.navbar{
+    background: burlywood;
+    height: 100px;
+}
+
+/*
+.bg-6{
+    background: darkcyan;
+    height: 100px;
+}
+.bg-7{
+    background: violet;
+    height: 100px;
+}
+.bg-8{
+    background: hotpink;
+    height: 100px;
+}
+.bg-9{
+    background: teal;
+    height: 100px;
+} */

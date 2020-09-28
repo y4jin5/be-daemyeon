@@ -1,0 +1,38 @@
+.bg-1{
+    background: saddlebrown;
+    height: 100px;
+}
+.bg-2{
+    background: salmon;
+    height: 100px;
+}
+footer{
+    width: 100%;
+    background: gray;
+    height: 150px;
+}
+ nav{
+    background: burlywood;
+    height: 100px;
+}
+.jumbotron{
+    background: slategray;
+    height: 400px;
+}
+/*
+.bg-6{
+    background: darkcyan;
+    height: 100px;
+}
+.bg-7{
+    background: violet;
+    height: 100px;
+}
+.bg-8{
+    background: hotpink;
+    height: 100px;
+}
+.bg-9{
+    background: teal;
+    height: 100px;
+} */

@@ -1,0 +1,111 @@
+
+
+.bg-1{
+    background: #4b85dd;
+    color: #fff;
+    font-weight: bold;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.navbar{
+    color: #fff ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 17px;
+    font-weight: bold;
+    background: #4b85dd;
+}
+.navbar-default .navbar-brand{
+    color: #fff;
+    font-size: 17px;
+    font-weight: bold;
+    background: #4b85dd;
+}
+.navbar-default .navbar-nav>li>a{
+    color: #fff;
+}
+.navbar-nav li a:hover{
+    border-bottom: #fff !important;
+}
+
+.bg-2{
+    height: 150px;
+    background: #4279f0;
+    color: #fff;
+}
+.bg-3{
+    height: 150px;
+    background: rgb(59, 98, 228);
+    color: #fff;
+}
+.bg-4{
+    background: rgba(0, 55, 255, 0.8);
+    color: #fff;
+    line-height: 150px;
+}
+.bg-5{
+    height: 100px;
+    background: #fff;
+    line-height: 100px;
+}
+.bg-7{
+    height: 300px;
+    background: rosybrown;
+}
+.bg-6{
+    height: 300px;
+    background: royalblue;
+}
+.bg-8{
+    background: rgb(243, 243, 243);
+    padding: 50px 0;
+}
+.bg-9{
+    height: 150px;
+    background: rgb(172, 193, 255);
+}
+.bg-10{
+    height: 150px;
+    background: rgb(255, 189, 189);
+}
+.bg-11{
+    background-color: #fff;
+    padding: 50px 0;
+}
+/*
+.bg-2{
+    background: salmon;
+    height: 500px;
+}
+footer{
+    width: 100%;
+    background: gray;
+    height: 150px;
+}
+.navbar{
+    background: burlywood;
+    height: 100px;
+} */
+
+/*
+.bg-6{
+    background: darkcyan;
+    height: 100px;
+}
+.bg-7{
+    background: violet;
+    height: 100px;
+}
+.bg-8{
+    background: hotpink;
+    height: 100px;
+}
+.bg-9{
+    background: teal;
+    height: 100px;
+} */
